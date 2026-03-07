@@ -36,3 +36,7 @@ my roblox : lapsisawesome
 5. Auto Resonance (WIP AND EXTREMALY BUGGY. automatically uses Resonance. (REQUIRES ARCANE : DARK/LEGACY & 0.36 ROBLOX SENSITIVITY)
 
 6. Auto Fish (automatically fishes and sells them after completing all enabled objectives)
+
+
+my discord : 41ht
+my roblox : lapsisawesome
