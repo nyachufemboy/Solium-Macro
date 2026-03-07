@@ -1,0 +1,1 @@
+# Solium-Sols-rng-macro
