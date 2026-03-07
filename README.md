@@ -1,5 +1,8 @@
 # Solium
 
+<img width="390" height="554" alt="image" src="https://github.com/user-attachments/assets/cc895f77-50c4-4a7b-8040-84cb6afcbd4a" />
+
+
 ## This is a Sols rng macro made by nyachu
 
 Solium is entirely coded in AutoHotKey V1 and requires it to be used : https://www.autohotkey.com/
@@ -36,7 +39,6 @@ keep in mind macroing for too long (10+ hours) will cause roblox to memory leak 
 6. Auto Fish (automatically fishes and sells them after completing all enabled objectives)
 
 # PRESS F4 TO STOP THE MACRO
-
 
 # my discord : 41ht
 # my roblox : lapsisawesome
