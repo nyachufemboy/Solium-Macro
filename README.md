@@ -21,3 +21,14 @@ keep in mind macroing for too long (10+ hours) will cause roblox to memory leak 
 my discord : 41ht
 my roblox : lapsisawesome
 ==============================================
+
+
+# Current features
+
+Auto craft Bound + Heavenly potions (will expand to include other potions in future versions)
+Auto watch ad (automatically watches jake's ad)
+Auto Do Obby (automatically completes the normal obby. REQUIRES ANY SAILOR VARIENT)
+Auto Cave Obby (automatically completes the cave obby. REQUIRES ARCANE : DARK & 0.36 ROBLOX SENSITIVITY)
+Auto Resonance (WIP AND EXTREMALY BUGGY. automatically uses Resonance. (REQUIRES ARCANE : DARK/LEGACY & 0.36 ROBLOX SENSITIVITY)
+
+Auto Fish (automatically fishes and sells them after completing all enabled objectives)
