@@ -6,6 +6,7 @@ Solium is entirely coded in AutoHotKey V1 and requires it to be used : https://w
 
 # Run Solium.ahk to launch the program
 
+Expect some bugs as this is a fairly new macro, if you want to contact me feel free to dm me on discord : 41ht
 
 Solium requires vip for paths to work. and requires specific auras for some paths to work. those are listed below.
 
@@ -34,6 +35,10 @@ keep in mind macroing for too long (10+ hours) will cause roblox to memory leak 
 
 6. Auto Fish (automatically fishes and sells them after completing all enabled objectives)
 
+# PRESS F4 TO STOP THE MACRO
+
 
 # my discord : 41ht
 # my roblox : lapsisawesome
+
+if this program helped you out and has helped you out in anyway tell ALL your friends!!
