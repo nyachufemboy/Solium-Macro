@@ -2,6 +2,7 @@
 
 <img width="390" height="554" alt="image" src="https://github.com/user-attachments/assets/cc895f77-50c4-4a7b-8040-84cb6afcbd4a" />
 
+#
 
 ## This is a Sols rng macro made by nyachu
 
@@ -55,6 +56,7 @@ any bugs feel free to dm me on discord at : 41ht or nyachu.dll
 4. add the abillity to change which potions AutoCrafter makes
 5. auto rejoin / rejoin after x amount of hours to prevent memory leaks breaking paths
 
+<img width="90" height="90" alt="image" src="https://img.shields.io/github/downloads/nyachufemboy/Solium-Macro/total" />
 
 if this program helped you out please star it and tell other people about it!
 if you also want to donate you can do so here! (if you do donate, dm me on discord @41ht and youll be added to the list of donators)
