@@ -7,20 +7,20 @@
 
 Solium is entirely coded in AutoHotKey V1 and requires it to be used : https://www.autohotkey.com/
 
-# Run Solium.ahk to launch the program
-
-Expect some bugs as this is a fairly new macro, if you want to contact me feel free to dm me on discord : 41ht
-
-Solium requires vip for paths to work. and requires specific auras for some paths to work. those are listed below.
+# Installation
+1. Make you download and install AutoHotKey V1.1 : https://www.autohotkey.com/
+2. Download and extract the zip file. 
+3. Run Solium.ahk
+4. Enjoy!!
 
 # AURA REQUIREMENTS & OTHER REQUIREMENTS
-auras needed : any Sailor varient for DoObby..
-arcane darkness/legacy for AutoReso & CaveObby..
-0.36 roblox sens required for CaveObby & AutoReso..
+# VIP IS NEEDED FOR SOLIUM TO WORK
+1. auras needed : any Sailor varient for DoObby..
+2. arcane darkness/legacy for AutoReso & CaveObby..
+3. 0.36 roblox sens required for CaveObby & AutoReso..
+4. have atleast 30 fps and decent ping ( 0 - 100 )
+5. ROBLOX MUST BE FULL SCREEN, AND RESOLTUION MUST BE 1920 X 1080P
 
-# ROBLOX MUST BE FULL SCREEN, AND RESOLTUION MUST BE 1920 X 1080P AND YOU MUST HAVE VIP
-
-have atleast 30 fps and decent ping ( 0 - 100 )
 
 keep in mind macroing for too long (10+ hours) will cause roblox to memory leak which will bring ur fps down which will sometimes cause paths to break
 
@@ -38,9 +38,25 @@ keep in mind macroing for too long (10+ hours) will cause roblox to memory leak 
 
 6. Auto Fish (automatically fishes and sells them after completing all enabled objectives)
 
+and more to come!
+
+any bugs feel free to dm me on discord at : 41ht or nyachu.dll
+
 # PRESS F4 TO STOP THE MACRO
 
 # my discord : 41ht
 # my roblox : lapsisawesome
+============================
+## some other features i plan on adding are :
 
-if this program helped you out and has helped you out in anyway tell ALL your friends!!
+1. discord webhook support
+2. potentially discord bot support
+3. detection for if ur inventory gets full
+4. add the abillity to change which potions AutoCrafter makes
+5. auto rejoin / rejoin after x amount of hours to prevent memory leaks breaking paths
+
+
+if this program helped you out please star it and tell other people about it!
+if you also want to donate you can do so here! (if you do donate, dm me on discord @41ht and youll be added to the list of donators)
+
+# [Donate Here!](https://www.roblox.com/games/9055284742/FazeBen144s-Place#!/store)
