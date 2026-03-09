@@ -9,6 +9,7 @@
 Solium is entirely coded in AutoHotKey V1 and requires it to be used : https://www.autohotkey.com/
 
 # Installation
+
 1. Make you download and install AutoHotKey V1.1 : https://www.autohotkey.com/
 2. Download and extract the zip file. 
 3. Run Solium.ahk
@@ -45,9 +46,11 @@ any bugs feel free to dm me on discord at : 41ht or nyachu.dll
 
 # PRESS F4 TO STOP THE MACRO
 
-# my discord : 41ht
-# my roblox : lapsisawesome
+my discord : 41ht
+my roblox : lapsisawesome
+
 ============================
+
 ## some other features i plan on adding are :
 
 1. discord webhook support
