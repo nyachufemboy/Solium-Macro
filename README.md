@@ -1,6 +1,7 @@
 # Solium
 
-<img width="395" height="522" alt="image" src="https://github.com/user-attachments/assets/6785594c-6f9d-4642-a0cc-f96ee839d5f5" />
+<img width="442" height="600" alt="image" src="https://github.com/user-attachments/assets/4f6c3f5e-e6dc-4823-9b57-2542396b7eba" />
+<img width="444" height="602" alt="image copy" src="https://github.com/user-attachments/assets/66b77c05-5247-401e-bbb9-f97aa76800c6" />
 
 #
 
@@ -39,6 +40,13 @@ keep in mind macroing for too long (10+ hours) will cause roblox to memory leak 
 5. Auto Resonance (WIP AND EXTREMALY BUGGY. automatically uses Resonance. (REQUIRES ARCANE : DARK/LEGACY & 0.36 ROBLOX SENSITIVITY)
 
 6. Auto Fish (automatically fishes and sells them after completing all enabled objectives)
+
+# Standalone macro's :
+
+7. Standalone Auto Resonace (Presses the key E every 5 seconds to use the resonace,)
+
+8. Anti Afk ( tabs into roblox and clicks the mouse button every 5 minutes, then tabs back into your previously focused application (youtube, another game, etc) )
+
 
 and more to come!
 
